@@ -73,7 +73,7 @@
 
 ---
 
-<h2 align="center">🎨 Portfolio Preview</h2>
+<!--<h2 align="center">🎨 Portfolio Preview</h2>
 
 <div align="center">
   <img src="https://via.placeholder.com/400x220.png?text=IRDI+Studio+Preview" alt="IRDI Studio" />
@@ -91,7 +91,7 @@
 - [North Point School](https://northpointschool.org/)  
 - [MICM India](https://micmindia.com/)  
 
----
+----->
 
 <h2 align="center">📈 GitHub Stats</h2>
 
