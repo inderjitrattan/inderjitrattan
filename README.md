@@ -17,7 +17,9 @@
 </p>
 
 <!-- Availability Badge -->
-<img src="https://img.shields.io/badge/Open%20to-Collaboration%20%26%20Freelance-2ea44f?style=for-the-badge" alt="availability"/>
+<a href="https://inderjitrattan.me/">
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration%20%26%20Freelance-2ea44f?style=for-the-badge" alt="availability"/>
+</a>
 
 </div>
 
