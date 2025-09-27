@@ -17,7 +17,7 @@
 </p>
 
 <!-- Availability Badge -->
-<a href="https://inderjitrattan.me/">
+<a href="https://inderjitrattan.me/" target="_blank">
   <img src="https://img.shields.io/badge/Open%20to-Collaboration%20%26%20Freelance-2ea44f?style=for-the-badge" alt="availability"/>
 </a>
 
@@ -50,7 +50,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-github-icon-svg-download-png-3073768.png?f=webp&w=512" height="40" alt="github"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress"/>
